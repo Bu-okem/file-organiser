@@ -1,0 +1,21 @@
+{
+  "name": "file-organiser",
+  "version": "1.0.1",
+  "description": "A CLI tool to organise files into folders based on extension, date, size, or type",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "file-organiser": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "author": "Chibuokem",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0"
+  }
+}
