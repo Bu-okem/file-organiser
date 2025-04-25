@@ -5,7 +5,7 @@ A CLI tool to help you quickly sort your files into folders based on their exten
 ## Installation
 
 ```bash
-npm install -g file-organiser
+npm install -g organise-files
 ```
 
 ## Usage
