@@ -11,7 +11,7 @@ npm install -g organise-files
 ## Usage
 
 ```bash
-file-organiser -s <source> -d <dest> -b <criteria>
+organise-files -s <source> -d <dest> -b <criteria>
 ```
 
 ### Options
@@ -30,5 +30,5 @@ file-organiser -s <source> -d <dest> -b <criteria>
 ## Example
 
 ```bash
-file-organiser -s /path/to/source -d /path/to/dest -b extension
+organise-files -s /path/to/source -d /path/to/dest -b extension
 ```
